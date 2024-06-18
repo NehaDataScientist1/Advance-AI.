@@ -42,3 +42,8 @@ while True:
 # Release the webcam and close windows
 cap.release()
 cv2.destroyAllWindows()
+
+
+---------------------------------------------------------
+
+check and download output from this link: https://github.com/NehaDataScientist1/Advance-AI./blob/main/Hand%20Landmarks%202024-04-29%2018-30-56.mp4
